@@ -104,34 +104,6 @@ h6,
   text-decoration: none;
 }
 
-.nav-menu .drop-down>a:after {
-  content: "\ea27";
-  font-family: "boxicons";
-  padding-left: 10px;
-  position: absolute;
-  right: 15px;
-}
-
-.nav-menu .active.drop-down>a:after {
-  content: "\ea27";
-}
-
-.nav-menu .drop-down>a {
-  padding-right: 35px;
-}
-
-.nav-menu .drop-down ul {
-  display: none;
-  overflow: hidden;
-}
-
-.nav-menu ul.drop-down-active {
-  display: block;
-}
-
-.nav-menu .drop-down li {
-  padding-left: 20px;
-}
 
 .nav-menu-active {
   right: 0;
@@ -309,7 +281,7 @@ h6,
 #hero {
   width: 100%;
   height: 80vh;
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/SFL_K_Pic1.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: -80px;
